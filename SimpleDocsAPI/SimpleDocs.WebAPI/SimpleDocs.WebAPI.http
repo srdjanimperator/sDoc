@@ -1,0 +1,6 @@
+@SimpleDocs.WebAPI_HostAddress = http://localhost:5005
+
+GET {{SimpleDocs.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
